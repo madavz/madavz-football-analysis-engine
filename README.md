@@ -1,5 +1,8 @@
 # madavz-football-analysis-engine
-Advanced football analysis and prediction engine built with Streamlit.
+from PIL import Image
+import pytesseract
+import pandas as pd
+import re
 streamlit
 pandas
 pytesseract
